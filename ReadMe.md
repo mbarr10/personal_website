@@ -3,6 +3,11 @@ hey
 This is a personal website, built by Marcus Barr for his Web Development 100 class
 ==============
 
-12/30
+1/3/2016
+Built out the header and footer and finished the home page
+Began the layout of the ABout Me page
+
+12/30/2016
 Created three HTML pages; Home, About, Contact
 Made a Title and a navigation to all three pages
+

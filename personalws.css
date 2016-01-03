@@ -1,6 +1,84 @@
-ul.nav{
+.title{
+	background-image: url("footer.jpg");
+  	margin: auto;
+ 	padding: 0;
+ 	width: 90%;
+ 	height: 150px;
+ 	}
+ 	.title span{
+ 		font-size: 125px;
+ 		font-family: times;
+ 		font-style: italic;
+ 		margin-left: 5px;
+ 		}
+ ul.nav{
  	list-style: none;
-	padding: 0; }
+	padding-top: 10px; 
+	background-color: black;
+	height: 40px;
+	margin-top: 10px;
+	padding: 0px;
+	padding-top: 10px;
+	border: 0;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	}
 	ul.nav li{
 		display: inline;
+		margin-left: 0;
+		margin-right: 25px;
+		padding: 13%;
+		color: white:;
+		font-size: x-large;
  		}
+#skydiving {
+	float: left;
+	margin-left: 5%;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 55%;
+	}
+#mywork {
+	display: inline-block;
+	clear: right;
+	border: 2px solid black;
+	margin: auto;
+	width: 34%;
+	height: 600%;
+	padding-bottom: 200px;
+	}
+	#mywork h1 {
+		text-align: center;
+		font-size: x-large;
+	}
+ 	#homework li{
+ 		text-align: left;
+ 		margin: auto;
+ 	}
+#footer {
+	width: 90%;
+	margin: 5%;
+	margin-top: 5px;
+	margin-bottom: 1px;
+}
+hr {
+	display: block;
+	width: 90%;
+	margin: auto;
+}
+#aboutme {
+	float: left;
+	margin-left: 5%;
+}
+h2 {
+	text-decoration: underline; 
+	margin-left: 0;
+	padding: 0;
+}
+#heart {
+	display: inline-block;
+	float: right;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
