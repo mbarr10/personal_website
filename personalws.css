@@ -39,7 +39,7 @@
 	margin-bottom: 10px;
 	width: 55%;
 	}
-#mywork {
+#links {
 	display: inline-block;
 	clear: right;
 	border: 2px solid black;
@@ -48,13 +48,14 @@
 	height: 600%;
 	padding-bottom: 200px;
 	}
-	#mywork h1 {
+	#links h1 {
 		text-align: center;
-		font-size: x-large;
+		font-size: xx-large;
 	}
- 	#homework li{
+ 	#websites a{
  		text-align: left;
- 		margin: auto;
+ 		margin: 5px;
+ 		font-size: large;
  	}
 #footer {
 	width: 90%;
@@ -69,7 +70,7 @@ hr {
 }
 #aboutme {
 	float: left;
-	margin-left: 5%;
+	margin-left: 7%;
 }
 h2 {
 	text-decoration: underline; 
@@ -81,4 +82,8 @@ h2 {
 	float: right;
 	margin-right: 5%;
 	margin-bottom: 10px;
+}
+#contactme {
+	float: left;
+	margin-left: 7%;
 }
